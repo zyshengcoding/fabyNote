@@ -15,6 +15,6 @@
 
 
 <div align=center>
-	<img src="https://github.com/lovefaby/fabyNote/blob/master/images/wind.jpg">
+	<img src="https://github.com/lovefaby/fabyNote/blob/master/images/wind3.jpg">
 </div>
 
