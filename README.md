@@ -13,4 +13,8 @@
 | :construction:[数据库](https://github.com/PansonPanson/Java-Notes/blob/master/md/%E6%95%B0%E6%8D%AE%E5%BA%93.md) | :construction:[JVM](https://github.com/PansonPanson/Java-Notes/blob/master/md/JVM.md) |                                                              | :construction:[代码规范](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E8%AF%A6%E5%B0%BD%E7%89%88%EF%BC%89.pdf) | :construction:[Web Server](https://github.com/PansonPanson/Java-Notes/blob/master/md/Web%20Server.md) |                                                              |                                                              | :construction:[其他](https://github.com/PansonPanson/Java-Notes/blob/master/md/%E5%85%B6%E4%BB%96.md) |
 | :construction:[算法](https://github.com/PansonPanson/Java-Notes/blob/master/md/%E7%AE%97%E6%B3%95.md) | :construction:[科普系列](https://github.com/PansonPanson/Java-Notes/blob/master/md/%E7%A7%91%E6%99%AE%E7%B3%BB%E5%88%97.md) |                                                              |                                                              | :construction:[搜索引擎](https://github.com/PansonPanson/Java-Notes/blob/master/md/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.md) |                                                              |                                                              |                                                              |
 
-![avatar](https://github.com/lovefaby/fabyNote/blob/master/images/wind.jpg)
+
+<div align=center>
+	<img src="https://github.com/lovefaby/fabyNote/blob/master/images/wind.jpg" width="">
+</div>
+
